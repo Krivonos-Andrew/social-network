@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5em;
+  background-color: antiquewhite;
+}
+
+.main {
+  width: 100%;
+  flex: 1;
+  background-color: #BDEEF7;
+}

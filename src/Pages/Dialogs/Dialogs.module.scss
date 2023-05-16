@@ -1,0 +1,18 @@
+.wrap {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  background-color: #888888;
+}
+
+.dialogItems {
+  width: 50%;
+  background-color: chartreuse;
+}
+
+.messages {
+  background-color: brown;
+}
+
+
+

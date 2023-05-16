@@ -1,0 +1,24 @@
+.wrap {
+  display: flex;
+  padding: 2em;
+}
+
+.img {
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  width: 5em;
+  height: 5em;
+  border-radius: 50%;
+}
+
+.img > img {
+  width: 100%;
+}
+
+.info {
+  
+  padding-left: 5em;
+  color: #213547;
+}
+

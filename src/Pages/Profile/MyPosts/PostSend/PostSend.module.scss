@@ -1,0 +1,23 @@
+.wrap {
+  padding-left: 2em;
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  color: #535bf2;
+  align-self: flex-start;
+}
+
+.input {
+  padding: 1em;
+  border-radius: .8em;
+  font-size: 1em;
+  outline: none;
+}
+
+.btn {
+  margin-top: 1rem;
+  align-self: flex-end;
+}
